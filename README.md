@@ -4,7 +4,7 @@
 #### If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) ####
 
 ## 🖼️ ETH Stealer / NFT Stealer / USDT Stealer / Drainer Template / ETH Drainer / NFT Drainer / USDT Drainer /USDC Drainer
-![preview](https://ibb.co/sv3X2Kq)
+![preview]([https://ibb.co/sv3X2Kq](https://ibb.co/sv3X2Kq))
 
 ## `💡 Features`
 - [x] Inspect Element Detection
